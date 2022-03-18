@@ -1,0 +1,19 @@
+Instructor: Laurent Dongradi, ldongradi@splunk.com
+
+https://si-10705-100.class.splunk.com/en-GB/app/launcher/home
+https://10705b.class.splunk.com/
+analyst7 itsiguru
+
+https://si-10705-07.class.splunk.com/en-US/app/launcher/home
+54.171.180.77
+admin : splunk3du
+
+
+GMT +1, CET, Denmark
+Migrate from another tool into Splunk ITSI
+Attended the prereq for this one
+Cold but sunny, no clouds :-)
+Anything that is not to sweet
+
+https://drive.google.com/drive/folders/1V7URXYa6VNJRiRSO0Ip8FiAWL8GNq8x-
+
